@@ -1,4 +1,4 @@
-# pinterestfake1
+![image](https://github.com/Cheblo/pinterestfake1/assets/106563543/a46b8cfd-c958-4839-b254-d0f7ff751f48)# pinterestfake1
 
 # Clon de Pinterest con HTML y CSS
 
@@ -15,7 +15,8 @@ Este proyecto es un clon de la interfa de usuario de Pinterest, creado puramente
 + **Google Fonts:** Para fuentes personalizadas.
 
 ### Vista Previa del Proyecto
-https://github.com/Cheblo/pinterestfake/assets/106563543/46631953-4f28-48f5-ad7a-696bf0fcea13
+![Fake pinterest](https://github.com/Cheblo/pinterestfake1/assets/106563543/fba28202-4bf9-4b62-9f1d-fc97cb0a1301)
+
 
 ### Licencia
 Distribuido bajo la Licencia MIT. Consulta `LICENSE` para obtener más información.
