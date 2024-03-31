@@ -1,5 +1,3 @@
-![image](https://github.com/Cheblo/pinterestfake1/assets/106563543/a46b8cfd-c958-4839-b254-d0f7ff751f48)# pinterestfake1
-
 # Clon de Pinterest con HTML y CSS
 
 Este proyecto es un clon de la interfa de usuario de Pinterest, creado puramente con HTML y CSS. Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo una experiencia de navegación similar con un diseño responsive y funcionalidades básicas.
